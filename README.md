@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **275** 🎉
+**AWESOME** apps counter: **276** 🎉
 
 ### Contents
 
@@ -1351,6 +1351,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [ ] Official page
 
 ## Instant Messaging
+
+### MeshLive
+
+<img alt="MeshLiveIcon" height="64" src="https://raw.githubusercontent.com/MeshLive/meshlive-android/main/docs/brand/meshlive-icon.svg">
+
+> Encrypted voice/video calls and live audio/video broadcasts over a Bluetooth mesh, without internet, accounts or servers. Android 10 or newer; currently in beta.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/MeshLive/meshlive-android)
+- [x] [Official page](https://github.com/MeshLive/meshlive-android/releases/latest)
 
 ### Signal :heart:
 
