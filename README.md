@@ -1360,8 +1360,8 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 - [ ] Google Play
 - [ ] F-Droid
-- [x] [GitHub](https://github.com/MeshLive/meshlive-android)
-- [x] [Official page](https://github.com/MeshLive/meshlive-android/releases/latest)
+- [x] [Source code](https://github.com/MeshLive/meshlive-android)
+- [x] [Official page](https://github.com/MeshLive/meshlive-android#readme)
 
 ### Signal :heart:
 
